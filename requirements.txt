@@ -1,0 +1,10 @@
+langchain
+langgraph
+openai
+tiktoken
+pyyaml
+neo4j
+pymilvus
+python-dotenv
+langchain-community
+langchain-openai
